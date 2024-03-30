@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style-type: none;
+    display: inline-block;
+    border: solid 2px #a1a1a1;
+    padding: 16px;
+    color: #558bff;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    width: 20px;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+li:hover {
+    background-color: #a1a1a1;
+}
+
+body {
+    background-color: #ccc;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+}
+
+#setae {
+    border-right: 0;
+    border-radius: 3px 0px 0px 3px;
+}
+
+.a {
+    border-right: 0;
+
+}
+
+.b {
+    border-right: 0;
+
+}
+
+.c {
+    border-right: 0;
+
+}
+
+.setad {
+    border-radius: 0 3px 3px 0;
+}
