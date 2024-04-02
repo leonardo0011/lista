@@ -1,1 +1,3 @@
-// teste
+function alerta() {
+    window.alert("Hello Word");
+}
